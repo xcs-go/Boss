@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>首页</string>
+		<key>image</key>
+		<string>common_icon_membership_level1</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>发现</string>
+		<key>image</key>
+		<string>common_icon_membership_level2</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>关注</string>
+		<key>image</key>
+		<string>common_icon_membership_level3</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>收藏</string>
+		<key>image</key>
+		<string>common_icon_membership_level4</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>圆桌</string>
+		<key>image</key>
+		<string>common_icon_membership_level5</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>私信</string>
+		<key>image</key>
+		<string>common_icon_membership_level6</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>分享</string>
+		<key>image</key>
+		<string>common_icon_membership</string>
+	</dict>
+</array>
+</plist>

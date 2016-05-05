@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>微信</string>
+		<key>text</key>
+		<string>使用人数最多的移动社交软件</string>
+		<key>image</key>
+		<string>wechat.png</string>
+		<key>url</key>
+		<string>http://www.qq.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>微博</string>
+		<key>text</key>
+		<string>网络红人，微博大v，和喜欢的人近距离的互动</string>
+		<key>image</key>
+		<string>wechat.png</string>
+		<key>url</key>
+		<string>http://www.weibo.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>手机QQ</string>
+		<key>text</key>
+		<string>手机QQ最新版上线</string>
+		<key>image</key>
+		<string>wechat.png</string>
+		<key>url</key>
+		<string>http://www.QQ.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>陌陌</string>
+		<key>text</key>
+		<string>陌生人社交软件，结交新的朋友</string>
+		<key>image</key>
+		<string>wechat.png</string>
+		<key>url</key>
+		<string>http://www.immomo.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>探探</string>
+		<key>text</key>
+		<string>同城交友软件</string>
+		<key>image</key>
+		<string>wechat.png</string>
+		<key>url</key>
+		<string>https://tantanapp.com</string>
+	</dict>
+</array>
+</plist>
